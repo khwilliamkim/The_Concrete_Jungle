@@ -52,12 +52,12 @@ Exploratory Data Analysis (EDA) is an open-ended process when we make visualizat
 Features Explored
 > * ENERGY STAR Score (Target Variable)
 
-![fig1](.images/fig01_ENERGY_STAR_Score_Distribution.png)
+![fig1](./images/fig01_ENERGY_STAR_Score_Distribution.png)
 
 > * Site EUI 
 > * Property Type
 
-![fig2](.images/fig02_Property_Type_Frequency.png)
+![fig2](./images/fig02_Property_Type_Frequency.png)
 
 > * Boroughs
 
@@ -65,13 +65,13 @@ Features Explored
 ***
 In order to determine if certain property types tend to score better or worse on the Energy Star Score, we can plot the distribution of energy star scores by property type. Following is a density plot showing the distribution of scores for property types with more than 100 measurements in the data.
 
-![fig3](.images/fig04_Energy_Star_Property_Density_Plot.png)
+![fig3](./images/fig04_Energy_Star_Property_Density_Plot.png)
 
 ## Correlations with Target Variable
 ***
 Let's take a look at the Pearson Correlation Coefficient between all the numerical columns and the Energy Star Score. This measures the linear relationship between two variables, and it might shed some light on what features are related to the Energy Star Score. This is a measure of the strength and direction of a linear relationship between two variables: a value of -1 means the two variables are perfectly negatively linearly correlated and a value of +1 means the two variables are perfectly positively linearly correlated.
 
-![fig5](.images/fig05_Two_Variable_Plot.png)
+![fig5](./images/fig05_Two_Variable_Plot.png)
 
 ## Feature Engineering and Selection
 ***
@@ -97,7 +97,7 @@ The objective is to predict the Energy Star Score of a building given the variab
 ## Models
 ***
 
-![fig6](.images/fig06_Model_Comparison.png)
+![fig6](./images/fig06_Model_Comparison.png)
 
 ## Model Optimization
 ***
@@ -107,7 +107,7 @@ In machine learning, optimizing a model means finding the best set of hyperparam
 ***
 Machine learning is often criticized as being a black-box: we put data in on one side and it gives us the answers on the other. While these answers are often extremely accurate, the model tells us nothing about how it actually made the predictions. This is true to some extent, but there are ways in which we can try and discover how a model "thinks"
 
-![fig8](.images/fig08_Feature_Importances.png)
+![fig8](./images/fig08_Feature_Importances.png)
 
 ## Extra Work
 ***
