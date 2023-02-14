@@ -1,7 +1,7 @@
 # The_Concrete_Jungle_Machine Learning Project
 **LL84 Greener, Greater Buildings Plan for NYC**
 
-![image](nycimage.jpg)
+![image](./images/nycimage.jpg)
 
 >**[Introduction](#Introduction)**
 
@@ -115,8 +115,13 @@ The highlights from the report are:
 > * The most useful random forest features for predicting Energy Star Score are EUI, Property Type, and Electricity usage
 > * Finally I was able to classify the buildings into 5 grades as well as predict the score of buildings with missing scores.
 
+## Repository
 
-
+├── images          
+├── notebook                              
+├── presentation                                
+├── LICENSE
+└── README.md
 
 
 
