@@ -117,13 +117,10 @@ The highlights from the report are:
 
 ## Repository
 
-├── images          
-├── notebook                              
-├── presentation                                
-├── LICENSE
-└── README.md
-
-
-
-
-
+```
+├── images                           
+├── notebook.ipynb   
+├── presentation.pdf         
+├── .gitignore                               
+└── README.md                            
+```
