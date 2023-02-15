@@ -43,9 +43,9 @@ Our main tasks to concur will be:
 ### Data
 The NYC Benchmarking Law requires owners of large buildings to annually measure their energy and water consumption in a process called benchmarking. The law standardizes this process by requiring building owners to enter their annual energy and water use in the U.S. Environmental Protection Agency's (EPA) online tool, ENERGY STAR Portfolio Manager and use the tool to submit data to the City. This data gives building owners information about a building's energy and water consumption compared to similar buildings, and tracks progress year over year to help in energy efficiency planning.
 
-Benchmarking data is also disclosed publicly and can be found __[here](https://data.cityofnewyork.us/Environment/Energy-and-Water-Data-Disclosure-for-Local-Law-84-/7x5e-2fxh)__.
+Benchmarking data is disclosed publicly and can be found __[here](https://data.cityofnewyork.us/Environment/Energy-and-Water-Data-Disclosure-for-Local-Law-84-/7x5e-2fxh)__.
 
-The Powerpoint Presentation for this project can be found __[link](presentation.pdf)__.
+The Powerpoint Presentation is also located in this __[link](presentation.pdf)__.
 
 There are about 29,842 buildings with 249 different types of energy usage, emissions and other information. Even though we don't understand the meanings of all 249 columns or features this isn't a huge concern because we let the model decide which features are important. Nonetheless, it would be helpful to understand the problem to the extent as possible, and because we also want to interpret the model results, it would be a good idea to have some knowledge of the columns.
 
