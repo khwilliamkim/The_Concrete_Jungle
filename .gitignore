@@ -1,0 +1,15 @@
+# Junk Files
+.DS_Store
+.pytest_cachse
+.pyc
+__pycache__
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Data
+/data

@@ -45,7 +45,7 @@ The NYC Benchmarking Law requires owners of large buildings to annually measure 
 
 Benchmarking data is also disclosed publicly and can be found __[here](https://data.cityofnewyork.us/Environment/Energy-and-Water-Data-Disclosure-for-Local-Law-84-/7x5e-2fxh)__.
 
-The Powerpoint Presentation for this project can be found __[here](presentation.pdf)
+The Powerpoint Presentation for this project can be found __[link](presentation.pdf)__.
 
 There are about 29,842 buildings with 249 different types of energy usage, emissions and other information. Even though we don't understand the meanings of all 249 columns or features this isn't a huge concern because we let the model decide which features are important. Nonetheless, it would be helpful to understand the problem to the extent as possible, and because we also want to interpret the model results, it would be a good idea to have some knowledge of the columns.
 
