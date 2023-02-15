@@ -122,9 +122,9 @@ The highlights from the report are:
 ## Repository
 
 ```
-├── images                           
-├── notebook.ipynb   
-├── presentation.pdf         
-├── .gitignore                               
-└── README.md                            
+├── images
+├── .gitignore   
+├── README.md         
+├── notebook.ipynb                               
+└── presentation.pdf                       
 ```
